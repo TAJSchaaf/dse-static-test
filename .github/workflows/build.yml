@@ -24,9 +24,9 @@ jobs:
     - name: Build
       run: |
         ant
-    - name: Build Index
-      run: |
-        ./shellscripts/build_index.sh
+    #- name: Build Index
+     # run: |
+      #  ./shellscripts/build_index.sh
     - name: Update Favicons
       run: python update_favicons.py
     - name: Deploy
