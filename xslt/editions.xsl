@@ -33,7 +33,16 @@
     </xsl:variable>
 
 
-    <xsl:template match="/">
+     <!-- Matches 'cit' elements within 'section' elements -->
+  <xsl:template match="section/cit">
+    <!-- Copy the 'cit' element -->
+    <xsl:copy>
+      <!-- Increase the font size -->
+      <xsl:attribute name="style">font-size:20px;</xsl:attribute>
+      <!-- Copy the content of 'cit' element -->
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+  </xsl:template>
 
     
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
@@ -98,6 +107,8 @@
                         <div data-index="true">
                             <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                         </div>
+
+                        
                         
 
                         <p style="text-align:center;">
