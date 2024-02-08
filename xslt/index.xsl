@@ -44,7 +44,7 @@
         <h2 id="{generate-id()}"><xsl:apply-templates/></h2>
     </xsl:template>
     
-    <xsl:template match="tei:p">
+    <xsl:template match="tei:u">
         <p id="{generate-id()}"><xsl:apply-templates/></p>
     </xsl:template>
     
