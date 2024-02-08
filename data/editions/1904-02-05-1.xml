@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Jew</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="heading">
+            <p><foreign xml:lang="de">1. Jahrgang	Nr. 1 </foreign>	1st year</p>
+         </div>
+         <div type="section">
+         <head>The true jew</head>
+         <p>Organ for yiddish matters</p>
+         <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
+         <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+         </div>
+         <div type="section" n="1" style="two columns">
+         <cb n="1"/>
+         <table rows="4" cols="2">
+            <head>The true Jew costs</head>
+            <row role="data">
+               <cell role="data">In <rs type="place">Austria-Hungary</rs></cell>
+               <cell role="data">Abroad</cell>
+            </row>
+            <row role="data">
+               <cell role="data">For a whole year - 8 Kronen</cell>
+               <cell role="data">For a whole year 8 Francs</cell>
+            </row>
+            <row role="data">
+               <cell role="data">For a half year - 4"</cell>
+               <cell role="data">For a half year - 6"</cell>
+            </row>
+            <row role="data">
+               <cell role="data">For a quarter year - 2.50"</cell>
+               <cell role="data">For a quarter year - 3.50"</cell>
+            </row>
+         </table>
+            <p><rs type="place">Lviv</rs>,<date> Friday 5th 1904</date></p>
+         <cb n="2"/>
+         <p>Adverts are cheaply calculated
+            <lb/>All letters and money send to:
+            <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv, Sonnengasse 27</rs></foreign>
+            <lb/>The true Jew is published every Friday
+            <lb/><rs type="place">Lviv</rs>, <date when-iso="1904-02-05">February 5th 1904</date></p>
+         </div>
+         <div type="section" n="2" style="one column">
+          <head>The true Jew</head>
+            <p style="text-align: center">As of today we’re publishing a new weekly newspaper called</p>
+            <p style="text-aling: center">"The true Jew</p>
+            <p>
+               Our Newspaper is made for the Jewish people as a whole, for everything who finds 
+               <lb/>interest in important articles about all matters concerning our brothers
+               <lb/>in the whole world; in every issue we want to give detailed reports about
+               <lb/>all polictical occurances and want to deliver all important news as well as those that belong
+               <lb/>to all Jewish matter, as well as general world news. Therefore, every Jew will find in our
+               <lb/>paper a short but detailed list about everything important and intereseting and
+               <lb/>does not have to make great effort to read Polish or German newspapers, which the gen-
+               <lb/>eral public does not completely understand.
+            </p>
+            <p>
+               <lb/>However, we want to care that not only the public class reads it. We want 
+               <lb/>for our paper to be particularly special for our pious brothers, which have not left behind
+               <lb/>the true Jewry, which are the religion and our Jewish teaching  and also see to teach their children
+               <lb/>the truth. Our pious, honest brothers have not had a single Jewish paper until today,
+               <lb/>what should be written according to his opinion, his view and his
+               <lb/>thoughts, about all the matters, that are concerning Jewish people as a whole, writing and reporting
+               <lb/>in a way, which does not harm our ultra-orthodox brothers. This paper
+               <lb/>is written in ordinary Jewish language, which everyone should understand, which hasn’t existed yet and this should be our newspaper.
+            </p>
+            <p style="text-align: center">"The true Jew".</p>
+         </div>     
+      </body>
+  </text>
+</TEI>
