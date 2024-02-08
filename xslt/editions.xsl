@@ -143,7 +143,7 @@
     <!-- Copy the 'cit' element -->
     <xsl:copy>
       <!-- Increase the font size -->
-      <xsl:attribute name="style">font-size:20px;</xsl:attribute>
+      <xsl:attribute name="style">font-color:red;</xsl:attribute>
       <!-- Copy the content of 'cit' element -->
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
