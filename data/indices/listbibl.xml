@@ -17,7 +17,7 @@
             <div>
               <listBibl><bibl xml:id="songThis">
                 <title>This Is How We Do It</title>
-                <author ref="#musicMJ1">Merle Haggard</author>
+                <author ref="#musicMJ1">Montell Jordan</author>
                 <date when="1995">1995</date>
               </bibl>
                 <bibl xml:id="songOkie">
