@@ -179,52 +179,52 @@
 
          <div type="intro">
 
-            <u who="#WM">Last summer, I went for a run. And I do not run with any music. I run
+            <p>Last summer, I went for a run. And I do not run with any music. I run
                musiclessly. And so I get to the gym, and I, for once, don’t have headphones while
                I’m exercising. And I heard a song that I’ve heard, I don’t know, 2 million times,
-               probably? “<name type="song" ref="#songThis">This Is How We Do It</name>” —</u>
+               probably? “<name type="song" ref="#songThis">This Is How We Do It</name>” —</p>
 
             <cit type="songclip">
                <quote source="#songThis">This is how we do it.</quote>
             </cit>
 
-            <u who="#WM">— by <name type="musician" ref="#musicMJ1">Montell Jordan</name>.</u>
+            <p>— by <name type="musician" ref="#musicMJ1">Montell Jordan</name>.</p>
 
             <cit type="songclip">
                <quote source="#songThis">This is how we do it. It’s Friday night, and I feel all
                   right. The party’s here on the West Side, so I reach for my —</quote>
             </cit>
 
-            <u who="#WM">And somewhere at the beginning of this song, after I have gotten all of the
+            <p>And somewhere at the beginning of this song, after I have gotten all of the
                groove establishment thoroughly in my system again, I started to hear this song in a
                completely new way. There’s this great line in this song where he’s saying, <quote
                   source="#songThis">It feels so good in my hood tonight, and the summertime skirts
                   and my guys in Kani, and all the gang bangers forgot about the drive-by.
-               </quote>.He lives in south central <name type="place" ref="#placeLA">Los
+               </quote>He lives in South Central <name type="place" ref="#placeLA">Los
                   Angeles</name>, which in 1995 when this song comes out is well established as a
                particular pop culture zone, from <name type="album"
                   ref="http://www.wikidata.org/entity/Q3496674">Poetic Justice</name> and <name
                   type="album" ref="http://www.wikidata.org/entity/Q4035350">Boyz N da Hood</name>
                and <name type="album" ref="http://www.wikidata.org/entity/Q1173003">Menace To
-                  Society</name>, It’s a violent place where people could die at any minute. </u>
+                  Society</name>, It’s a violent place where people could die at any minute. </p>
 
-            <u who="#WM">And there is just something so moving about the idea that because this
+            <p>And there is just something so moving about the idea that because this
                party is happening, somebody is going to live tonight. And in its way, it is
                celebrating life in the most subtle, and, I don’t know, at the same time mundane way.
                And I was really picking up what <name type="musician" ref="#musicMJ1">Montell</name>
                was putting down. And the fact is that he put it down a long time ago. I was just
                finally ready to stop dancing and pick it up. And what I heard was that it wasn’t
-               just some stellar piece of hip-hop R&amp;B. It was a country song. </u>
+               just some stellar piece of hip-hop R&amp;B. It was a country song. </p>
 
 
-            <u who="#WM">I’m Wesley Morris, and I am high on <name type="musician" ref="#musicMJ1"
+            <p>I’m Wesley Morris, and I am high on <name type="musician" ref="#musicMJ1"
                   >Montell Jordan</name> because I am hearing him like I have never heard him
                before. I’m also a culture writer at “The New York Times,” and this is “Still
-               Processing.” </u>
+               Processing.” </p>
          </div>
 
          <div type="body">
-            <u who="#WM"> OK. Yes, I did just say that. I do think that <name type="song"
+            <p> OK. Yes, I did just say that. I do think that <name type="song"
                   ref="#songThis">This Is How We Do It</name> is a country song. And here’s what I
                mean. There’s a kind of country song that is exclusively about where people have come
                from — I mean where they physically actually are from. The one that came to mind for
@@ -233,7 +233,7 @@
                   type="song" ref="#songOkie">Okie From Muskogee</name> from <date when="1969"
                   >1969</date>. You know, he’s upset about people’s negative reaction to the war. So
                he went and wrote a song about how none of those values have crept into the culture
-               of <name type="place" ref="#placeMuskogee">Muskogee, Oklahoma</name></u>
+               of <name type="place" ref="#placeMuskogee">Muskogee, Oklahoma</name></p>
 
             <cit type="songclip">
                <quote source="songOkie" type="lyrical">We don’t smoke marijuana in <name
@@ -241,42 +241,42 @@
                   L.S.D.</quote>
             </cit>
 
-            <u who="#WM">I mean, he’s already saying, like, listen, this is what’s not happening
-               here.</u>
+            <p>I mean, he’s already saying, like, listen, this is what’s not happening
+               here.</p>
 
             <cit type="songclip">
                <quote source="#songOkie" type="lyrical">—cards down on Main Street.</quote>
             </cit>
 
-            <u who="#WM">Nope, we don’t burn draft cards. We go fight in the war.</u>
+            <p>Nope, we don’t burn draft cards. We go fight in the war.</p>
 
             <cit type="songclip">
                <quote source="#songOkie" type="lyrical">—we like living right and being
                   free.</quote>
             </cit>
 
-            <u who="#WM">He has judged half the country in five bars. There are no lines to read
+            <p>He has judged half the country in five bars. There are no lines to read
                between. He’s laying it all out. And “<name type="song" ref="#songOkie">Okie From
                   Muskogee</name>” is the sort of songs, the sort of country song, that should be
                familiar to any country listener. It is about celebrating the place where you’re from
                and what its values are based on the constituency of the artist. You can go as far
                forward as <name type="musician" ref="#musicEC">Eric Church</name>, who is basically
                writing songs about where he’s from that are about what you won’t be doing when you
-               get there.</u>
+               get there.</p>
 
             <cit type="songclip">
                <quote source="#songGive" type="lyrical">Give me back my hometown, ‘cause this is my
                   hometown.</quote>
             </cit>
 
-            <u who="#WM">And so this tradition of saying, hey, this is where I’m from, is also a
+            <p>And so this tradition of saying, hey, this is where I’m from, is also a
                kind of way of saying, this is the kind of American person I am. And what <name
                   type="musician" ref="#musicMJ1">Montell Jordan</name> is doing, by comparison, is
                saying, you guys from <name type="place" ref="#placeMuskogee">Muskogee</name> perhaps
                have judged us. You guys had this one idea from the <name type="event"
                   ref="#eventLA92"> Los Angeles riots</name>, but there’s a sliver of something else
                to say about this place that I’m from, which is that life can be pretty good here,
-               too.</u>
+               too.</p>
 
             <cit type="songclip">
                <quote source="#songThis" type="lyrical"><name type="place" ref="#placeLA">South
@@ -285,7 +285,7 @@
                   we do it.)</quote>
             </cit>
 
-            <u who="#WM">I listen to this song now, and I just hear such a depth and complexity that <vocal>
+            <p>I listen to this song now, and I just hear such a depth and complexity that <vocal>
                   <desc>laughter</desc>
                </vocal> I could never have heard as a 19-year-old. I just couldn’t have heard it.
                And I’m not the only person in this relationship that is thinking about the uses of
@@ -297,7 +297,7 @@
                era. So in that sense, this song is the past speaking to <name type="musician"
                   ref="#musicMJ1">Montell Jordan</name>. And it’s been with me this whole time. That
                song hadn’t changed at all. I had. I am a slightly more sophisticated person than I
-               was when I was 19.</u>
+               was when I was 19.</p>
 
             <cit type="songclip">
                <quote source="#songLosing" type="acoustic">
@@ -305,25 +305,25 @@
                </quote>
             </cit>
 
-            <u who="#WM">And I would say that the song that wins the “I haven’t changed, you have”
+            <p>And I would say that the song that wins the “I haven’t changed, you have”
                championship belt is <name type="song" ref="#songLosing">Losing My Religion</name> by
-                  <name type="band" ref="https://www.wikidata.org/wiki/Q134969">R.E.M.</name></u>
+                  <name type="band" ref="https://www.wikidata.org/wiki/Q134969">R.E.M.</name></p>
 
             <cit type="songclip">
                <quote source="#songLosing" type="lyrical">— a dream. That’s me in the corner. That’s
                   me in the spotlight, losing my religion.</quote>
             </cit>
 
-            <u who="#WM">It’s a song that I heard for the first time when I was 15 years old. It’s
+            <p>It’s a song that I heard for the first time when I was 15 years old. It’s
                their biggest hit. They were my favorite band because I felt like they were always
-               trying to tell me something that was encoded in the songwriting.</u>
+               trying to tell me something that was encoded in the songwriting.</p>
 
             <cit type="songclip">
                <quote source="#songLosing" type="lyrical">I thought that I heard you laughing. I
                   thought that I heard you sing. I think I thought I saw you try.</quote>
             </cit>
 
-            <u who="#WM">Somewhere in there was the truth about the person singing the songs. And in
+            <p>Somewhere in there was the truth about the person singing the songs. And in
                this case, that person’s name is <name type="musician" ref="#musicMS">Michael
                   Stipe</name>. He is the lead singer of that band. And I think the thing for me as
                a kid and a teenager that was so appealing to me about R.E.M. was the possibility
@@ -348,23 +348,23 @@
                actually just telling you that you — Wesley — were gay. I was writing the lyrics out
                looking for answers to who I was, not who he was. And you know, I’m an adult now
                who’s ready to do my own work. I don’t need the art to do it for me. But it’s nice to
-               know that I always had a guardian angel in the form of this band and this song.</u>
+               know that I always had a guardian angel in the form of this band and this song.</p>
 
-            <u who="#WM">When I’m at the gym or watching a TV show like “Song Exploder,” and I hear
+            <p>When I’m at the gym or watching a TV show like “Song Exploder,” and I hear
                an old song in a new way, whatever it is, whatever you call that experience — I think
                some version of that happened to us collectively last year when that “Framing <name
-                  type="musician" ref="#musicBS">Britney Spears</name>” documentary came out.</u>
+                  type="musician" ref="#musicBS">Britney Spears</name>” documentary came out.</p>
 
-            <u who="#WM">For a lot of people, this was the first time they were hearing anything
-               about how she didn’t have any control over her life.</u>
+            <p>For a lot of people, this was the first time they were hearing anything
+               about how she didn’t have any control over her life.</p>
 
-            <u who="#WM">And she couldn’t make her own decisions about her career, or how to spend
+            <p>And she couldn’t make her own decisions about her career, or how to spend
                her money, or her medical care or even how to be a mother. And I was in this
                documentary for a little bit, and what really struck me about it — one of the things
                — was just how her fans essentially became her protectors, her town criers, spreading
-               the word about her situation.</u>
+               the word about her situation.</p>
 
-            <u who="#WM">But there is something about all of this sort of justice-oriented energy
+            <p>But there is something about all of this sort of justice-oriented energy
                being directed at this one very famous white woman, when there’s a whole other
                universe of injustice happening for people — and I’m not saying that the people who
                were working to free <name type="musician" ref="#musicBS">Britney Spears</name>, for
@@ -382,7 +382,7 @@
                   <desc>laughter</desc>
                </vocal> It doesn’t make us happy anymore. When we hear — when we hear those opening
                bars of <name type="song" ref="#songBaby">Baby One More Time</name>,like <shift
-                  new="singing"/>dun, dun, dun, dun-</u>
+                  new="singing"/>dun, dun, dun, dun-</p>
 
             <cit type="songclip">
                <quote source="#songBaby" type="acoustic">
@@ -390,19 +390,19 @@
                </quote>
             </cit>
 
-            <u who="#WM">And we feel so attached to the sad aspect of what we just went through with
+            <p>And we feel so attached to the sad aspect of what we just went through with
                   <name type="musician" ref="#musicBS">Britney Spears</name> that when it comes on,
                we’re going to put our lighters up like it’s <name type="song"
                   ref="https://www.wikidata.org/wiki/Q56071967">Candle in the Wind</name> or <name
                   type="song" ref="https://www.wikidata.org/wiki/Q2000445">Purple Rain</name>. And
                instead of running to the dance floor or staying on the dance floor and, you know,
-               dancing our brains out and grinding up against somebody, it’s going to be like —</u>
+               dancing our brains out and grinding up against somebody, it’s going to be like —</p>
 
             <cit type="songclip">
                <quote source="#songBaby" type="lyrical">Hit me baby one more time.</quote>
             </cit>
 
-            <u who="#WM">She didn’t die, y’all. She’s here. Y’all freed her. She’s free. But I also
+            <p>She didn’t die, y’all. She’s here. Y’all freed her. She’s free. But I also
                think this isn’t just about <name type="musician" ref="#musicBS">Britney
                   Spears</name>. We’ve spent the last five years in what we have been calling the
                   <name type="event" ref="#eventMeToo">Me Too Movement</name>. Since the revelations
@@ -442,55 +442,55 @@
                that invitation is always going to feel spiritual. And one of the great things about
                art is no matter what the circumstances are of the artist who made the work, the art
                itself is always going to be there, essentially unchanged, ready for you, waiting for
-               you to be ready to receive it.</u>
+               you to be ready to receive it.</p>
 
          </div>
          <div type="credits">
 
-            <u who="#WM">That’s our show. And I can’t believe this, but I have a special guest in
+            <p>That’s our show. And I can’t believe this, but I have a special guest in
                the studio with me today. It’s Christopher Tompkins, my nephew. Say hi,
-               Christopher.</u>
+               Christopher.</p>
 
-            <u who="#CT">Hi. So I’m new here. And this is a pretty big deal for me because I’ve
-               actually never done this before. But yeah, I’m ready to do this.</u>
+            <p>Hi. So I’m new here. And this is a pretty big deal for me because I’ve
+               actually never done this before. But yeah, I’m ready to do this.</p>
 
-            <u who="#WM">You’re ready to do it? OK. So we’re going to read the credits. So why don’t
-               you start? </u>
+            <p>You’re ready to do it? OK. So we’re going to read the credits. So why don’t
+               you start? </p>
 
-            <u who="#CT">All right. “Still Processing” is produced by Elyssa Dudley and Hans
-               Buetow.</u>
+            <p>All right. “Still Processing” is produced by Elyssa Dudley and Hans
+               Buetow.</p>
 
-            <u who="#WM">It’s edited by Sara Sarasohn and Sasha Weiss.</u>
+            <p>It’s edited by Sara Sarasohn and Sasha Weiss.</p>
 
-            <u who="#CT">The show was mixed by Marion Lozano and recorded by Maddy Masiello.</u>
+            <p>The show was mixed by Marion Lozano and recorded by Maddy Masiello.</p>
 
-            <u who="#WM">Digital production by Mahima Chablani and Des Ibekwe.</u>
+            <p>Digital production by Mahima Chablani and Des Ibekwe.</p>
 
-            <u who="#CT">Our theme music is by Kindness. It’s called “World Restart” from the album
-               “Otherness.”</u>
+            <p>Our theme music is by Kindness. It’s called “World Restart” from the album
+               “Otherness.”</p>
 
-            <u who="#WM">Ah, we’ll be back next week. Christopher, that was amazing. Thanks for
-               doing this with me. I love you.</u>
+            <p>Ah, we’ll be back next week. Christopher, that was amazing. Thanks for
+               doing this with me. I love you.</p>
 
-            <u who="#CT">No problem. I love you, too. So goodbye. Goodbye, guys. That was fun.
-               Goodbye.</u>
+            <p>No problem. I love you, too. So goodbye. Goodbye, guys. That was fun.
+               Goodbye.</p>
 
          </div>
          <div type="aftercredits">
 
-            <u who="#WM">Did you see everything, by the way?</u>
+            <p>Did you see everything, by the way?</p>
 
-            <u who="#CT">Yeah, I got — I used an elevator, and then I didn’t have a key card, so I
+            <p>Yeah, I got — I used an elevator, and then I didn’t have a key card, so I
                got trapped in a bunch of rooms, glass rooms. And a nice lady helped me out. And I
                was like, I wanted to go in the elevator again. And then it happened again. So then
-               the security guard had to let me out. And I did it a third time.</u>
+               the security guard had to let me out. And I did it a third time.</p>
 
-            <u who="#WM">Yeah, OK. You were on floors that you shouldn’t have been on.</u>
+            <p>Yeah, OK. You were on floors that you shouldn’t have been on.</p>
 
-            <u who="#CT">Yeah, and then I got stuck. And a bunch of people had to help me out. And
-               it was pretty stressful.</u>
+            <p>Yeah, and then I got stuck. And a bunch of people had to help me out. And
+               it was pretty stressful.</p>
 
-            <u who="#WM">Well, you’re here now. That’s all that matters.</u>
+            <p>Well, you’re here now. That’s all that matters.</p>
 
          </div>
       </body>
