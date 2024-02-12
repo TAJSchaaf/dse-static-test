@@ -32,9 +32,7 @@
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
 
-
-    <xsl:template match="/">
-
+  <xsl:template match="/">
     
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html xmlns="http://www.w3.org/1999/xhtml" class="h-100">
@@ -98,6 +96,8 @@
                         <div data-index="true">
                             <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                         </div>
+
+                        
                         
 
                         <p style="text-align:center;">
@@ -137,6 +137,17 @@
             </body>
         </html>
     </xsl:template>
+     
+    <!-- Matches 'cit' elements within 'section' elements -->
+  <xsl:template match="section/cit">
+    <!-- Copy the 'cit' element -->
+    <xsl:copy>
+      <!-- Increase the font size -->
+      <xsl:attribute name="style">font-color:red;</xsl:attribute>
+      <!-- Copy the content of 'cit' element -->
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+  </xsl:template>
 
     <xsl:template match="tei:p">
         <p id="{local:makeId(.)}" class="yes-index">
